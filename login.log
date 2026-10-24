@@ -1,5 +1,0 @@
-[13:03:28.537085200] [login] listening on 0.0.0.0:20020
-[13:03:38.911205500] [login] rx from 192.168.0.73:52028 273b 0100000401a3cc00000000000009028bb4075963dd5be52324444f49feb16224d31a53488dc918c481505f84b864c52d037cab0c9acc374122af4788d58b460c..(+209b)
-[13:03:38.956608700] [login] LogOnParams user='{"auth_method":"basic","game":"wotb","login":"beb@gmail.com","session":"18e73509a73167f01446d8a60efe77ec","temporary":"1"}
-' pass='vchgkhgfhy' flags=0x1 encKey=16b nonce=0x3c6f0be9 offset=15
-[13:03:38.965411900] [login] tx login reply id=52387 sk=0x5820cde1 body=25b 010a0cc03d38802c6722ec133b501bcf8919b6a9b90c3bb1b7
