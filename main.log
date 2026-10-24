@@ -1,0 +1,89 @@
+[17:26:20.292182200] [main] WoT Blitz 5.4 private server starting
+[17:26:20.310672100] [main] host=192.168.0.47 http=8080 login=20020 baseapp=8082
+[17:26:20.383143800] [main] RSA key loaded: RSA PKCS#8
+[17:26:20.407601100] [main] regions config: F:\Deluxeapk\5.4.0-kotlin\server\config\regions_supertest.yaml (17188b)
+[17:26:20.533552200] [main] ready
+[17:38:01.868754100] [main] WoT Blitz 5.4 private server starting
+[17:38:01.872754100] [main] host=192.168.0.47 http=8080 login=20020 baseapp=8082
+[17:38:01.918419900] [main] RSA key loaded: RSA PKCS#8
+[17:38:01.919420700] [main] regions config: F:\Deluxeapk\5.4.0-kotlin\server\config\regions_supertest.yaml (17188b)
+[17:38:08.542238] [main] WoT Blitz 5.4 private server starting
+[17:38:08.550237100] [main] host=192.168.0.47 http=8080 login=20020 baseapp=8082
+[17:38:08.595240] [main] RSA key loaded: RSA PKCS#8
+[17:38:08.596240200] [main] regions config: F:\Deluxeapk\5.4.0-kotlin\server\config\regions_supertest.yaml (17188b)
+[17:38:08.661239600] [main] ready
+[17:41:57.064712400] [main] WoT Blitz 5.4 private server starting
+[17:41:57.068712600] [main] host=192.168.0.47 http=8080 login=20020 baseapp=8082
+[17:41:57.113711700] [main] RSA key loaded: RSA PKCS#8
+[17:41:57.114711300] [main] regions config: F:\Deluxeapk\5.4.0-kotlin\server\config\regions_supertest.yaml (17188b)
+[17:41:57.180712500] [main] ready
+[18:55:49.325034300] [main] WoT Blitz 5.4 private server starting
+[18:55:49.330036] [main] host=192.168.0.47 http=8080 login=20020 baseapp=8082
+[18:55:49.376900700] [main] RSA key loaded: RSA PKCS#8
+[18:55:49.377899600] [main] regions config: F:\Deluxeapk\5.4.0-kotlin\server\config\regions_supertest.yaml (17188b)
+[18:55:49.443991700] [main] ready
+[19:02:05.936977200] [main] WoT Blitz 5.4 private server starting
+[19:02:05.941976100] [main] host=192.168.0.47 http=8080 login=20020 baseapp=8082
+[19:02:05.987976500] [main] RSA key loaded: RSA PKCS#8
+[19:02:05.988975500] [main] regions config: F:\Deluxeapk\5.4.0-kotlin\server\config\regions_supertest.yaml (17188b)
+[19:02:14.648908100] [main] WoT Blitz 5.4 private server starting
+[19:02:14.652908700] [main] host=192.168.0.47 http=8080 login=20020 baseapp=8082
+[19:02:14.699907100] [main] RSA key loaded: RSA PKCS#8
+[19:02:14.699907100] [main] regions config: F:\Deluxeapk\5.4.0-kotlin\server\config\regions_supertest.yaml (17188b)
+[19:02:23.899418800] [main] WoT Blitz 5.4 private server starting
+[19:02:23.903421] [main] host=192.168.0.47 http=8080 login=20020 baseapp=8082
+[19:02:23.949929400] [main] RSA key loaded: RSA PKCS#8
+[19:02:23.949929400] [main] regions config: F:\Deluxeapk\5.4.0-kotlin\server\config\regions_supertest.yaml (17188b)
+[19:02:44.752356600] [main] WoT Blitz 5.4 private server starting
+[19:02:44.756354700] [main] host=192.168.0.47 http=8080 login=20020 baseapp=8082
+[19:02:44.804355500] [main] RSA key loaded: RSA PKCS#8
+[19:02:44.804355500] [main] regions config: F:\Deluxeapk\5.4.0-kotlin\server\config\regions_supertest.yaml (17188b)
+[19:03:43.321489800] [main] WoT Blitz 5.4 private server starting
+[19:03:43.325492500] [main] host=192.168.0.47 http=8080 login=20020 baseapp=8082
+[19:03:43.370490200] [main] RSA key loaded: RSA PKCS#8
+[19:03:43.371490800] [main] regions config: F:\Deluxeapk\5.4.0-kotlin\server\config\regions_supertest.yaml (17188b)
+[19:05:27.416370100] [main] WoT Blitz 5.4 private server starting
+[19:05:27.420372300] [main] host=192.168.0.47 http=8080 login=20020 baseapp=8082
+[19:05:27.466372300] [main] RSA key loaded: RSA PKCS#8
+[19:05:27.467371500] [main] regions config: F:\Deluxeapk\5.4.0-kotlin\server\config\regions_supertest.yaml (17188b)
+[19:05:27.535371800] [main] ready
+[19:51:27.034494900] [main] WoT Blitz 5.4 private server starting
+[19:51:27.050494100] [main] host=192.168.0.47 http=8080 login=20020 baseapp=8082
+[19:51:27.126493600] [main] RSA key loaded: RSA PKCS#8
+[19:51:27.147493] [main] regions config: F:\Deluxeapk\5.4.0-kotlin\server\config\regions_supertest.yaml (17188b)
+[19:51:27.329005] [main] ready
+[19:58:29.437516600] [main] WoT Blitz 5.4 private server starting
+[19:58:29.452618900] [main] host=192.168.0.47 http=8080 login=20020 baseapp=8082
+[19:58:29.551139300] [main] RSA key loaded: RSA PKCS#8
+[19:58:29.570858800] [main] regions config: F:\Deluxeapk\5.4.0-kotlin\server\config\regions_supertest.yaml (17188b)
+[19:58:29.696427] [main] ready
+[22:18:28.409468100] [main] WoT Blitz 5.4 private server starting
+[22:18:28.413468900] [main] host=192.168.0.47 http=8080 login=20020 baseapp=8082
+[22:18:28.461256100] [main] RSA key loaded: RSA PKCS#8
+[22:18:28.461256100] [main] regions config: F:\Deluxeapk\5.4.0-kotlin\server\config\regions_supertest.yaml (17188b)
+[22:18:28.532333300] [main] ready
+[22:55:00.915229900] [main] WoT Blitz 5.4 private server starting
+[22:55:00.919681200] [main] host=192.168.0.47 http=8080 login=20020 baseapp=8082
+[22:55:01.903110900] [main] RSA key loaded: RSA PKCS#8
+[22:55:01.903110900] [main] regions config: F:\Deluxeapk\5.4.0-kotlin\server\config\regions_supertest.yaml (17188b)
+[22:55:01.973659700] [main] ready
+[23:19:30.662907400] [main] WoT Blitz 5.4 private server starting
+[23:19:30.666905800] [main] host=192.168.0.47 http=8080 login=20020 baseapp=8082
+[23:19:31.520719400] [main] RSA key loaded: RSA PKCS#8
+[23:19:31.520719400] [main] regions config: F:\Deluxeapk\5.4.0-kotlin\server\config\regions_supertest.yaml (17188b)
+[23:19:31.586723300] [main] ready
+[23:43:11.043734600] [main] WoT Blitz 5.4 private server starting
+[23:43:11.048734900] [main] host=192.168.0.47 http=8080 login=20020 baseapp=8082
+[23:43:12.715969900] [main] RSA key loaded: RSA PKCS#8
+[23:43:12.715969900] [main] regions config: F:\Deluxeapk\5.4.0-kotlin\server\config\regions_supertest.yaml (17188b)
+[23:43:12.780081900] [main] ready
+[11:09:03.982666900] [main] WoT Blitz 5.4 private server starting
+[11:09:04.055801500] [main] host=192.168.0.47 http=8080 login=20020 baseapp=8082
+[11:09:04.963466900] [main] RSA key loaded: RSA PKCS#8
+[11:09:04.963466900] [main] regions config: F:\Deluxeapk\5.4.0-kotlin\server\config\regions_supertest.yaml (17188b)
+[11:09:05.073493300] [main] ready
+[11:26:29.331360300] [main] WoT Blitz 5.4 private server starting
+[11:26:29.335361] [main] host=192.168.0.47 http=8080 login=20020 baseapp=8082
+[11:26:30.172190500] [main] RSA key loaded: RSA PKCS#8
+[11:26:30.172190500] [main] regions config: F:\Deluxeapk\5.4.0-kotlin\server\config\regions_supertest.yaml (17188b)
+[11:26:30.234189900] [main] ready
