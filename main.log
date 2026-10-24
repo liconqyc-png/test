@@ -1,6 +1,0 @@
-[12:36:19.007602100] [main] WoT Blitz 5.4 private server starting
-[12:36:19.011603] [main] SERVER_BUILD=v11-startup-diagnostics-2026-10-24 cwd=F:\Deluxeapk\5.4.0-kotlin\server\. java=24.0.2
-[12:36:19.011603] [main] host=192.168.0.47 http=8080 login=20020 baseapp=8082
-[12:36:19.876602700] [main] RSA key loaded: RSA PKCS#8
-[12:36:19.877601500] [main] regions config: F:\Deluxeapk\5.4.0-kotlin\server\config\regions_supertest.yaml (17188b)
-[12:36:19.957616] [main] ready SERVER_BUILD=v11-startup-diagnostics-2026-10-24
