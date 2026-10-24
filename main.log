@@ -1,6 +1,0 @@
-[13:03:27.646898600] [main] WoT Blitz 5.4 private server starting
-[13:03:27.650896500] [main] SERVER_BUILD=v12-battle-cell-attach-2026-10-24 cwd=F:\Deluxeapk\5.4.0-kotlin\server\. java=24.0.2
-[13:03:27.650896500] [main] host=192.168.0.47 http=8080 login=20020 baseapp=8082
-[13:03:28.523081800] [main] RSA key loaded: RSA PKCS#8
-[13:03:28.524084900] [main] regions config: F:\Deluxeapk\5.4.0-kotlin\server\config\regions_supertest.yaml (17188b)
-[13:03:28.593082200] [main] ready SERVER_BUILD=v12-battle-cell-attach-2026-10-24
